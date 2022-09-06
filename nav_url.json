@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Glassnode",
+        "url": "https://studio.glassnode.com/metrics",
+        "logo": "https://res.kingdata.xyz/nav/glassNodeLogo.png",
+        "des": "综合面强的区块链数据分析网站,被多数加密KOL使用",
+        "des_en": "A comprehensive blockchain data analysis website, which is used by most encrypted KOLs",
+        "des_tw": "綜合麵強的區塊鏈數據分析網站,被多數加密KOL使用",
+        "des_jp": "KOLの多くが利用するブロックチェーンの総合情報とデータ分析サイト"
+    },
+    {
+        "name": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/",
+        "logo": "https://www.federalreserve.gov/images/USAGov%402x.png",
+        "des": "美联储",
+        "des_en": "Federal Reserve",
+        "des_tw": "美聯儲",
+        "des_jp": "米連邦準備制度理事会"
+    },
+    {
+        "name": "TradingLite",
+        "url": "https://tradinglite.com/",
+        "logo": "https://res.kingdata.xyz/nav/tradingliteLogo.png",
+        "des": "区块链高级行情分析平台",
+        "des_en": "Blockchain advanced market analysis platform",
+        "des_tw": "區塊鏈高級行情分析平颱",
+        "des_jp": "ブロックチェーンにおける高度な市場分析プラットフォーム"
+    },
+    {
+        "name": "Bitconinity",
+        "url": "https://data.bitcoinity.org",
+        "logo": "https://res.kingdata.xyz/nav/bitconinity.jpg",
+        "des": "行情数据聚合可视化",
+        "des_en": "Market data aggregation and visualization",
+        "des_tw": "行情數據聚合可視化",
+        "des_jp": "マーケット情報の集計と可視化"
+    },
+    {
+        "name": "Viawallet",
+        "url": "https://explorer.viawallet.com/halving",
+        "logo": "https://res.kingdata.xyz/nav/viawallet.jpg",
+        "des": "减半币种倒计时统计",
+        "des_en": "Countdown statistics of each halved currency",
+        "des_tw": "減半幣種倒計時統計",
+        "des_jp": "半減期を有する各暗号通貨のカウントダウン統計"
+    },
+    {
+        "name": "Santiment",
+        "url": "https://santiment.net/",
+        "logo": "https://res.kingdata.xyz/nav/santimentNet.png",
+        "des": "综合面比较强的区块链数据分析网站",
+        "des_en": "A comprehensive blockchain data analysis website",
+        "des_tw": "綜合麵比較強的區塊鏈數據分析網站",
+        "des_jp": "ブロックチェーンの総合情報とデータ分析サイト"
+    },
+    {
+        "name": "Bitcoin Treasuries",
+        "url": "https://bitcointreasuries.org",
+        "logo": "https://res.kingdata.xyz/nav/bitcointreasuries.jpg",
+        "des": "持仓机构列表",
+        "des_en": "List of holding institutions",
+        "des_tw": "持倉機構列表",
+        "des_jp": "保有機関投資家の一覧リスト"
+    },
+    {
+        "name": "Digitalik",
+        "url": "https://digitalik.net",
+        "logo": "https://res.kingdata.xyz/nav/digitalik.jpg",
+        "des": "BTC稀缺性估值数据分析",
+        "des_en": "Analysis of BTC scarcity valuation data",
+        "des_tw": "BTC稀缺性估值數據分析",
+        "des_jp": "ビットコインの希少性価値評価データの分析"
+    },
+    {
+        "name": "Bybt",
+        "url": "https://www.coinglass.com/",
+        "logo": "https://res.kingdata.xyz/nav/bybt.png",
+        "des": "合约数据统计",
+        "des_en": "Contract data statistics",
+        "des_tw": "合約數據統計",
+        "des_jp": "スマートコントラクトのデータ統計"
+    },
+    {
+        "name": "Datamish",
+        "url": "https://datamish.com/",
+        "logo": "https://res.kingdata.xyz/nav/datamish.png",
+        "des": "合约数据统计",
+        "des_en": "Contract data statistics",
+        "des_tw": "合約數據統計",
+        "des_jp": "スマートコントラクトのデータ統計"
+    },
+    {
+        "name": "COINTRENDZ",
+        "url": "https://cointrendz.com",
+        "logo": "https://res.kingdata.xyz/nav/cointrendz.png",
+        "des": "行情信号工具",
+        "des_en": "Market signal tool",
+        "des_tw": "行情信號工具",
+        "des_jp": "マーケットシグナルツール"
+    },
+    {
+        "name": "COIN360",
+        "url": "https://coin360.com",
+        "logo": "https://res.kingdata.xyz/nav/coin360.jpg",
+        "des": "行情数据统计网站",
+        "des_en": "Market data statistics website",
+        "des_tw": "行情數據統計網站",
+        "des_jp": "マーケット情報統計サイト"
+    },
+    {
+        "name": "OKLink",
+        "url": "https://www.oklink.com/",
+        "logo": "https://res.kingdata.xyz/nav/oklink.png",
+        "des": "欧科云链集团旗下的区块链浏览器",
+        "des_en": "Blockchain browser under oklink",
+        "des_tw": "歐科雲鏈集團旗下的區塊鏈瀏覽器",
+        "des_jp": "OKLink傘下のブロックチェーンエクスプローラー"
+    }
+]
