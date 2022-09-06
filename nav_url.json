@@ -1,507 +1,1005 @@
 {
-    "社交软件": [
-        {
-            "name": "Twitter-推特",
-            "url": "https://twitter.com/home",
-            "logo": ""
-        },
-        {
-            "name": "推特数据分析",
-            "url": "https://analytics.twitter.com",
-            "logo": ""
-        },
-        {
-            "name": "抽奖工具",
-            "url": "https://app-sorteos.com/dashboard",
-            "logo": ""
-        },
-        {
-            "name": "推特管理工具",
-            "url": "https://tweetdeck.twitter.com",
-            "logo": ""
-        },
-        {
-            "name": "链接合集工具",
-            "url": "https://linktr.ee",
-            "logo": ""
-        },
-        {
-            "name": "查看推特小圈子",
-            "url": "https://orbit.livasch.com",
-            "logo": ""
-        },
-        {
-            "name": "查看名字在 Twitter,github,ENS 和 SOL 上是否被占用",
-            "url": "https://name3.org",
-            "logo": ""
-        },
-        {
-            "name": "Discord-DC",
-            "url": "https://discord.com/ ",
-            "logo": ""
-        },
-        {
-            "name": "Telegram-TG-电报",
-            "url": "https://telegram.org/",
-            "logo": ""
-        },
-        {
-            "name": "Telegram 和 Discoed 上较常用的的打赏机器人",
-            "url": "https://tip.cc/",
-            "logo": ""
-        },
-        {
-            "name": "Facebook-脸书",
-            "url": "https://www.facebook.com/",
-            "logo": ""
-        },
-        {
-            "name": "YouTube-油管",
-            "url": "https://www.youtube.com/",
-            "logo": ""
-        },
-        {
-            "name": "Medium",
-            "url": "https://medium.com/",
-            "logo": ""
-        }
-    ],
-    "钱包": [
-        {
-            "name": "TokenPocket-TP钱包",
-            "url": "https://tokenpocket.pro/",
-            "logo": ""
-        },
-        {
-            "name": "MetaMask-小狐狸",
-            "url": "https://metamask.io/",
-            "logo": ""
-        },
-        {
-            "name": "SafePal-B安钱包",
-            "url": "https://www.safepal.io/",
-            "logo": ""
-        },
-        {
-            "name": "麦子钱包",
-            "url": "https://www.mathwallet.or/",
-            "logo": ""
-        }
-    ],
-    "综合数据类": [
-        {
-            "name": "非小号",
-            "url": "http://feixiaohao.co/",
-            "logo": ""
-        },
-        {
-            "name": "MyTonen",
-            "url": "https://www.mytokencap.com/",
-            "logo": ""
-        },
-        {
-            "name": "CoinGecko",
-            "url": "https://www.coingecko.com/zh",
-            "logo": ""
-        },
-        {
-            "name": "CoinMarketCap",
-            "url": "https://coinmarketcap.com/",
-            "logo": ""
-        },
-        {
-            "name": "kingdata",
-            "url": "https://kingdata.com/download/",
-            "logo": ""
-        },
-        {
-            "name": "Nansen",
-            "url": "https://pro.nansen.ai/auth/login",
-            "logo": ""
-        },
-        {
-            "name": "Dune",
-            "url": "https://dune.com/browse/dashboards",
-            "logo": ""
-        },
-        {
-            "name": "Messari",
-            "url": "https://messari.io/",
-            "logo": ""
-        },
-        {
-            "name": "The block",
-            "url": "https://www.theblock.co/data/alternative-crypto-metrics/web-traffic",
-            "logo": ""
-        },
+    "推荐": [
         {
             "name": "Glassnode",
-            "url": "https://studio.glassnode.com/",
-            "logo": ""
+            "url": "https://studio.glassnode.com/metrics",
+            "logo": "https://res.kingdata.xyz/nav/glassNodeLogo.png",
+            "des": "综合面强的区块链数据分析网站,被多数加密KOL使用",
+            "des_en": "A comprehensive blockchain data analysis website, which is used by most encrypted KOLs",
+            "des_tw": "綜合麵強的區塊鏈數據分析網站,被多數加密KOL使用",
+            "des_jp": "KOLの多くが利用するブロックチェーンの総合情報とデータ分析サイト"
+        },
+        {
+            "name": "Federal Reserve",
+            "url": "https://www.federalreserve.gov/",
+            "logo": "https://www.federalreserve.gov/images/USAGov%402x.png",
+            "des": "美联储",
+            "des_en": "Federal Reserve",
+            "des_tw": "美聯儲",
+            "des_jp": "米連邦準備制度理事会"
+        },
+        {
+            "name": "TradingLite",
+            "url": "https://tradinglite.com/",
+            "logo": "https://res.kingdata.xyz/nav/tradingliteLogo.png",
+            "des": "区块链高级行情分析平台",
+            "des_en": "Blockchain advanced market analysis platform",
+            "des_tw": "區塊鏈高級行情分析平颱",
+            "des_jp": "ブロックチェーンにおける高度な市場分析プラットフォーム"
+        },
+        {
+            "name": "Bitconinity",
+            "url": "https://data.bitcoinity.org",
+            "logo": "https://res.kingdata.xyz/nav/bitconinity.jpg",
+            "des": "行情数据聚合可视化",
+            "des_en": "Market data aggregation and visualization",
+            "des_tw": "行情數據聚合可視化",
+            "des_jp": "マーケット情報の集計と可視化"
+        },
+        {
+            "name": "Viawallet",
+            "url": "https://explorer.viawallet.com/halving",
+            "logo": "https://res.kingdata.xyz/nav/viawallet.jpg",
+            "des": "减半币种倒计时统计",
+            "des_en": "Countdown statistics of each halved currency",
+            "des_tw": "減半幣種倒計時統計",
+            "des_jp": "半減期を有する各暗号通貨のカウントダウン統計"
         },
         {
             "name": "Santiment",
             "url": "https://santiment.net/",
-            "logo": ""
+            "logo": "https://res.kingdata.xyz/nav/santimentNet.png",
+            "des": "综合面比较强的区块链数据分析网站",
+            "des_en": "A comprehensive blockchain data analysis website",
+            "des_tw": "綜合麵比較強的區塊鏈數據分析網站",
+            "des_jp": "ブロックチェーンの総合情報とデータ分析サイト"
+        },
+        {
+            "name": "Bitcoin Treasuries",
+            "url": "https://bitcointreasuries.org",
+            "logo": "https://res.kingdata.xyz/nav/bitcointreasuries.jpg",
+            "des": "持仓机构列表",
+            "des_en": "List of holding institutions",
+            "des_tw": "持倉機構列表",
+            "des_jp": "保有機関投資家の一覧リスト"
+        },
+        {
+            "name": "Digitalik",
+            "url": "https://digitalik.net",
+            "logo": "https://res.kingdata.xyz/nav/digitalik.jpg",
+            "des": "BTC稀缺性估值数据分析",
+            "des_en": "Analysis of BTC scarcity valuation data",
+            "des_tw": "BTC稀缺性估值數據分析",
+            "des_jp": "ビットコインの希少性価値評価データの分析"
+        },
+        {
+            "name": "Bybt",
+            "url": "https://www.coinglass.com/",
+            "logo": "https://res.kingdata.xyz/nav/bybt.png",
+            "des": "合约数据统计",
+            "des_en": "Contract data statistics",
+            "des_tw": "合約數據統計",
+            "des_jp": "スマートコントラクトのデータ統計"
+        },
+        {
+            "name": "Datamish",
+            "url": "https://datamish.com/",
+            "logo": "https://res.kingdata.xyz/nav/datamish.png",
+            "des": "合约数据统计",
+            "des_en": "Contract data statistics",
+            "des_tw": "合約數據統計",
+            "des_jp": "スマートコントラクトのデータ統計"
+        },
+        {
+            "name": "COINTRENDZ",
+            "url": "https://cointrendz.com",
+            "logo": "https://res.kingdata.xyz/nav/cointrendz.png",
+            "des": "行情信号工具",
+            "des_en": "Market signal tool",
+            "des_tw": "行情信號工具",
+            "des_jp": "マーケットシグナルツール"
+        },
+        {
+            "name": "COIN360",
+            "url": "https://coin360.com",
+            "logo": "https://res.kingdata.xyz/nav/coin360.jpg",
+            "des": "行情数据统计网站",
+            "des_en": "Market data statistics website",
+            "des_tw": "行情數據統計網站",
+            "des_jp": "マーケット情報統計サイト"
+        },
+        {
+            "name": "OKLink",
+            "url": "https://www.oklink.com/",
+            "logo": "https://res.kingdata.xyz/nav/oklink.png",
+            "des": "欧科云链集团旗下的区块链浏览器",
+            "des_en": "Blockchain browser under oklink",
+            "des_tw": "歐科雲鏈集團旗下的區塊鏈瀏覽器",
+            "des_jp": "OKLink傘下のブロックチェーンエクスプローラー"
+        }
+    ],
+    "社交软件": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/home",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "twitter analytics",
+            "url": "https://analytics.twitter.com",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "抽奖工具",
+            "url": "https://app-sorteos.com/dashboard",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "twitter tweetdeck",
+            "url": "https://tweetdeck.twitter.com",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "linktr",
+            "url": "https://linktr.ee",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "livasch",
+            "url": "https://orbit.livasch.com",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "name3",
+            "url": "https://name3.org",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/ ",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "telegram",
+            "url": "https://telegram.org/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "tip cc",
+            "url": "https://tip.cc/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        }
+    ],
+    "钱包": [
+        {
+            "name": "TokenPocket",
+            "url": "https://tokenpocket.pro/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "MetaMask",
+            "url": "https://metamask.io/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "SafePal",
+            "url": "https://www.safepal.io/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "mathwallet",
+            "url": "https://www.mathwallet.or/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        }
+    ],
+    "综合数据类": [
+        {
+            "name": "feixiaohao",
+            "url": "http://feixiaohao.co/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "MyTonen",
+            "url": "https://www.mytokencap.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/zh",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "kingdata",
+            "url": "https://kingdata.com/download/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Nansen",
+            "url": "https://pro.nansen.ai/auth/login",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Dune",
+            "url": "https://dune.com/browse/dashboards",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Messari",
+            "url": "https://messari.io/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "The block",
+            "url": "https://www.theblock.co/data/alternative-crypto-metrics/web-traffic",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Glassnode",
+            "url": "https://studio.glassnode.com/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
+        },
+        {
+            "name": "Santiment",
+            "url": "https://santiment.net/",
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Bitinfocharts",
             "url": "https://bitinfocharts.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "区块链浏览器": [
         {
-            "name": "ETH链",
+            "name": "etherscan",
             "url": "https://etherscan.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "BSC链",
+            "name": "bscscan",
             "url": "https://www.bscscan.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "OK链",
+            "name": "oklink",
             "url": "https://www.oklink.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "HECO链",
+            "name": "hecoinfo",
             "url": "https://hecoinfo.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "波场链",
+            "name": "tronscan",
             "url": "https://tronscan.io/#/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "马蹄链",
+            "name": "polygonscan",
             "url": "https://polygonscan.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Arbitrum",
             "url": "https://arbiscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Optomistic",
             "url": "https://optimistic.etherscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Solana",
             "url": "https://solscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Ftmscan",
             "url": "https://ftmscan.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Avascan",
             "url": "https://avascan.info",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Filscan",
             "url": "https://filscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Moonscan",
             "url": "https://moonscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Gnosisscan",
             "url": "https://gnosisscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Algoscan",
             "url": "https://algoscan.app",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "波卡生态",
+            "name": "subscan",
             "url": "https://www.subscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Nearscan",
             "url": "https://www.nearscan.org/home",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Cosmos",
             "url": "https://www.mintscan.io/cosmos",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Icpscan",
             "url": "https://icscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "EVM浏览器",
+            "name": "blockscout",
             "url": "https://blockscout.com/eth/mainnet/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "Luna浏览器",
+            "name": "Luna terra",
             "url": "https://finder.terra.money",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "Dot浏览器",
+            "name": "polkascan",
             "url": "https://explorer.polkascan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "Celo浏览器",
+            "name": "celo",
             "url": "https://explorer.celo.org",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "Elrond浏览器",
+            "name": "Elrond",
             "url": "https://explorer.elrond.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Xdai",
             "url": "https://blockscout.com/xdai/mainnet",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "多链浏览器",
+            "name": "blockchair",
             "url": "https://blockchair.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "多链浏览器",
-            "url": "https://www.blockchain.com/explorer",
-            "logo": ""
-        },
-        {
-            "name": "Arbitrum One 区块浏览器",
+            "name": "Arbitrum One",
             "url": "https://arbiscan.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "综合",
+            "name": "tokenview",
             "url": "https://tokenview.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "K线工具": [
         {
-            "name": "BSC链",
+            "name": "BSC",
             "url": "https://poocoin.app/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "BSC/ETH/POLYGON/FANTOM",
             "url": "https://www.dextools.io/app/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "综合",
+            "name": "avedex",
             "url": "https://avedex.cc/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "交易所看线工具",
+            "name": "aicoin",
             "url": "https://www.aicoin.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "NFT工具大全": [
         {
             "name": "Genie",
             "url": "https://www.genie.xyz/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "gem",
             "url": "https://beta.gem.xyz/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "OpenSea",
             "url": "https://opensea.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "LooksRare",
             "url": "https://looksrare.org/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "MagicEden",
             "url": "https://www.magiceden.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "solsea",
             "url": "https://solsea.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "DigitalEyes",
             "url": "https://digitaleyes.market/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "tofunft",
             "url": "https://tofunft.com/zh-CN/bsc",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "rarity.tools",
             "url": "https://rarity.tools/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "raritysniffer",
             "url": "https://raritysniffer.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "MoonRank",
             "url": "https://moonrank.app/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "RaritySniper",
             "url": "https://raritysniper.com/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Golom.io",
             "url": "https://golom.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Nftexp",
             "url": "https://nftexp.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "icy.tools",
             "url": "https://icy.tools/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Coniun",
             "url": "https://coniun.io/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "交易所": [
         {
             "name": "Binance",
             "url": "https://www.binance.com/zh-CN",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "OKX",
             "url": "https://www.okx.com/web3",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "Huobi Globa",
             "url": "https://www.huobi.bs/zh-cn/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "MEXC-抹茶",
+            "name": "MEXC",
             "url": "https://www.mexc.com/zh-CN/markets",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "Gate.io-比特儿",
+            "name": "Gate.io",
             "url": "https://www.gate.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "库币",
+            "name": "kucoin",
             "url": "https://www.kucoin.com/zh-hans",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
             "name": "FTX",
             "url": "https://ftx.com",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "Web3.0": [
         {
-            "name": "捐款平台",
+            "name": "gitcoin",
             "url": "https://gitcoin.co",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "捐赠平台",
+            "name": "clr.fund",
             "url": "https://clr.fund/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "POAP徽章",
+            "name": "POAP",
             "url": "https://poap.fun/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "写作平台",
+            "name": "mirror",
             "url": "https://mirror.xyz",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "web3.0论坛",
+            "name": "bbs.market",
             "url": "https://bbs.market/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "创作空间",
+            "name": "buildspace",
             "url": "https://buildspace.so/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "DEFI/CEFI工具": [
         {
-            "name": "链上清算实时工具",
+            "name": "liquidated",
             "url": "https://liquidated.live",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "清算数据查看",
+            "name": "parsec.finance",
             "url": "https://app.parsec.finance/login?returnTo=/",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ],
     "GameFi": [
         {
-            "name": "GameFi趋势",
+            "name": "playtoearn.net",
             "url": "https://playtoearn.net/blockchaingames",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "链游排行",
+            "name": "degame.com",
             "url": "https://degame.com/en/home",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "P2E内容游戏平台",
+            "name": "playtoearn.online",
             "url": "https://www.playtoearn.online",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         },
         {
-            "name": "游戏聚合和资产市场",
+            "name": "planckx.io",
             "url": "https://planckx.io",
-            "logo": ""
+            "logo": "",
+            "des": "",
+            "des_en": "",
+            "des_tw": "",
+            "des_jp": ""
         }
     ]
 }
