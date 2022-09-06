@@ -158,164 +158,164 @@
         },
         {
             "name": "BSC链",
-            "url": "www.bscscan.com",
+            "url": "https://www.bscscan.com",
             "logo": ""
         },
         {
             "name": "OK链",
-            "url": "www.oklink.com",
+            "url": "https://www.oklink.com",
             "logo": ""
         },
         {
             "name": "HECO链",
-            "url": "hecoinfo.com/",
+            "url": "https://hecoinfo.com/",
             "logo": ""
         },
         {
             "name": "波场链",
-            "url": "tronscan.io/#/",
+            "url": "https://tronscan.io/#/",
             "logo": ""
         },
         {
             "name": "马蹄链",
-            "url": "polygonscan.com/",
+            "url": "https://polygonscan.com/",
             "logo": ""
         },
         {
             "name": "Arbitrum",
-            "url": "arbiscan.io",
+            "url": "https://arbiscan.io",
             "logo": ""
         },
         {
             "name": "Optomistic",
-            "url": "optimistic.etherscan.io",
+            "url": "https://optimistic.etherscan.io",
             "logo": ""
         },
         {
             "name": "Solana",
-            "url": "solscan.io",
+            "url": "https://solscan.io",
             "logo": ""
         },
         {
             "name": "Ftmscan",
-            "url": "ftmscan.com",
+            "url": "https://ftmscan.com",
             "logo": ""
         },
         {
             "name": "Avascan",
-            "url": "avascan.info",
+            "url": "https://avascan.info",
             "logo": ""
         },
         {
             "name": "Filscan",
-            "url": "filscan.io",
+            "url": "https://filscan.io",
             "logo": ""
         },
         {
             "name": "Moonscan",
-            "url": "moonscan.io",
+            "url": "https://moonscan.io",
             "logo": ""
         },
         {
             "name": "Gnosisscan",
-            "url": "gnosisscan.io",
+            "url": "https://gnosisscan.io",
             "logo": ""
         },
         {
             "name": "Algoscan",
-            "url": "algoscan.app",
+            "url": "https://algoscan.app",
             "logo": ""
         },
         {
             "name": "波卡生态",
-            "url": "www.subscan.io",
+            "url": "https://www.subscan.io",
             "logo": ""
         },
         {
             "name": "Nearscan",
-            "url": "www.nearscan.org/home",
+            "url": "https://www.nearscan.org/home",
             "logo": ""
         },
         {
             "name": "Cosmos",
-            "url": "www.mintscan.io/cosmos",
+            "url": "https://www.mintscan.io/cosmos",
             "logo": ""
         },
         {
             "name": "Icpscan",
-            "url": "icscan.io",
+            "url": "https://icscan.io",
             "logo": ""
         },
         {
             "name": "EVM浏览器",
-            "url": "blockscout.com/eth/mainnet/",
+            "url": "https://blockscout.com/eth/mainnet/",
             "logo": ""
         },
         {
             "name": "Luna浏览器",
-            "url": "finder.terra.money",
+            "url": "https://finder.terra.money",
             "logo": ""
         },
         {
             "name": "Dot浏览器",
-            "url": "explorer.polkascan.io",
+            "url": "https://explorer.polkascan.io",
             "logo": ""
         },
         {
             "name": "Celo浏览器",
-            "url": "explorer.celo.org",
+            "url": "https://explorer.celo.org",
             "logo": ""
         },
         {
             "name": "Elrond浏览器",
-            "url": "explorer.elrond.com",
+            "url": "https://explorer.elrond.com",
             "logo": ""
         },
         {
             "name": "Xdai",
-            "url": "blockscout.com/xdai/mainnet",
+            "url": "https://blockscout.com/xdai/mainnet",
             "logo": ""
         },
         {
             "name": "多链浏览器",
-            "url": "blockchair.com",
+            "url": "https://blockchair.com",
             "logo": ""
         },
         {
             "name": "多链浏览器",
-            "url": "www.blockchain.com/explorer",
+            "url": "https://www.blockchain.com/explorer",
             "logo": ""
         },
         {
             "name": "Arbitrum One 区块浏览器",
-            "url": "arbiscan.io",
+            "url": "https://arbiscan.io",
             "logo": ""
         },
         {
             "name": "综合",
-            "url": "tokenview.com/",
+            "url": "https://tokenview.com/",
             "logo": ""
         }
     ],
     "K线工具": [
         {
             "name": "BSC链",
-            "url": "poocoin.app/",
+            "url": "https://poocoin.app/",
             "logo": ""
         },
         {
             "name": "BSC/ETH/POLYGON/FANTOM",
-            "url": "www.dextools.io/app/",
+            "url": "https://www.dextools.io/app/",
             "logo": ""
         },
         {
             "name": "综合",
-            "url": "avedex.cc/",
+            "url": "https://avedex.cc/",
             "logo": ""
         },
         {
             "name": "交易所看线工具",
-            "url": "www.aicoin.com/",
+            "url": "https://www.aicoin.com/",
             "logo": ""
         }
     ],
@@ -382,12 +382,12 @@
         },
         {
             "name": "Golom.io",
-            "url": "golom.io/",
+            "url": "https://golom.io/",
             "logo": ""
         },
         {
             "name": "Nftexp",
-            "url": "nftexp.io/",
+            "url": "https://nftexp.io/",
             "logo": ""
         },
         {
@@ -404,103 +404,103 @@
     "交易所": [
         {
             "name": "Binance",
-            "url": "www.binance.com/zh-CN",
+            "url": "https://www.binance.com/zh-CN",
             "logo": ""
         },
         {
             "name": "OKX",
-            "url": "www.okx.com/web3",
+            "url": "https://www.okx.com/web3",
             "logo": ""
         },
         {
             "name": "Huobi Globa",
-            "url": "www.huobi.bs/zh-cn/",
+            "url": "https://www.huobi.bs/zh-cn/",
             "logo": ""
         },
         {
             "name": "MEXC-抹茶",
-            "url": "www.mexc.com/zh-CN/markets",
+            "url": "https://www.mexc.com/zh-CN/markets",
             "logo": ""
         },
         {
             "name": "Gate.io-比特儿",
-            "url": "www.gate.io",
+            "url": "https://www.gate.io",
             "logo": ""
         },
         {
             "name": "库币",
-            "url": "www.kucoin.com/zh-hans",
+            "url": "https://www.kucoin.com/zh-hans",
             "logo": ""
         },
         {
             "name": "FTX",
-            "url": "ftx.com",
+            "url": "https://ftx.com",
             "logo": ""
         }
     ],
     "Web3.0": [
         {
             "name": "捐款平台",
-            "url": "gitcoin.co",
+            "url": "https://gitcoin.co",
             "logo": ""
         },
         {
             "name": "捐赠平台",
-            "url": "clr.fund/",
+            "url": "https://clr.fund/",
             "logo": ""
         },
         {
             "name": "POAP徽章",
-            "url": "poap.fun/",
+            "url": "https://poap.fun/",
             "logo": ""
         },
         {
             "name": "写作平台",
-            "url": "mirror.xyz",
+            "url": "https://mirror.xyz",
             "logo": ""
         },
         {
             "name": "web3.0论坛",
-            "url": "bbs.market/",
+            "url": "https://bbs.market/",
             "logo": ""
         },
         {
             "name": "创作空间",
-            "url": "buildspace.so/",
+            "url": "https://buildspace.so/",
             "logo": ""
         }
     ],
     "DEFI/CEFI工具": [
         {
             "name": "链上清算实时工具",
-            "url": "liquidated.live",
+            "url": "https://liquidated.live",
             "logo": ""
         },
         {
             "name": "清算数据查看",
-            "url": "app.parsec.finance/login?returnTo=/",
+            "url": "https://app.parsec.finance/login?returnTo=/",
             "logo": ""
         }
     ],
     "GameFi": [
         {
             "name": "GameFi趋势",
-            "url": "playtoearn.net/blockchaingames",
+            "url": "https://playtoearn.net/blockchaingames",
             "logo": ""
         },
         {
             "name": "链游排行",
-            "url": "degame.com/en/home",
+            "url": "https://degame.com/en/home",
             "logo": ""
         },
         {
             "name": "P2E内容游戏平台",
-            "url": "www.playtoearn.online",
+            "url": "https://www.playtoearn.online",
             "logo": ""
         },
         {
             "name": "游戏聚合和资产市场",
-            "url": "planckx.io",
+            "url": "https://planckx.io",
             "logo": ""
         }
     ]
