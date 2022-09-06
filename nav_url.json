@@ -115,5 +115,272 @@
         "des_en": "Blockchain browser under oklink",
         "des_tw": "歐科雲鏈集團旗下的區塊鏈瀏覽器",
         "des_jp": "OKLink傘下のブロックチェーンエクスプローラー"
+    },
+    {
+        "name": "GameFi趋势",
+        "url": "https://playtoearn.net/blockchaingames",
+        "logo": "https://playtoearn.net/img/dapp/farcana/profile_picture/50_farcana.jpeg",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "代币解锁监控",
+        "url": "https://vestlab.io/",
+        "logo": "https://vestlab.io/assets/images/logo.svg",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "比特币持币地址",
+        "url": "https://explorer.btc.com/btc/top-address",
+        "logo": "https://explorer.btc.com/images/img_logo.png",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "比特币机构持仓",
+        "url": "https://cryptoquant.com/asset/btc/chart/fund-data",
+        "logo": "https://pstatic.cryptoquant.com/logo/cryptoquant_logo_light.svg",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "以太坊合并倒计时",
+        "url": "https://wenmerge.com/",
+        "logo": "https://wenmerge.com/wp-content/uploads/2022/03/etyhrocket-1-320x670.png",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
+    },
+    {
+        "name": "",
+        "url": "",
+        "logo": "",
+        "des": "",
+        "des_en": "",
+        "des_tw": "",
+        "des_jp": ""
     }
 ]
