@@ -1,5 +1,5 @@
 {
-    "data": [
+    "推荐": [
         {
             "name": "Glassnode",
             "url": "https://studio.glassnode.com/metrics",
@@ -116,7 +116,9 @@
             "des_en": "Blockchain browser under oklink",
             "des_tw": "歐科雲鏈集團旗下的區塊鏈瀏覽器",
             "des_jp": "OKLink傘下のブロックチェーンエクスプローラー"
-        },
+        }
+    ],
+    "社交软件": [
         {
             "name": "Twitter",
             "url": "https://twitter.com/home",
@@ -233,7 +235,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "钱包": [
         {
             "name": "TokenPocket",
             "url": "https://tokenpocket.pro/",
@@ -269,7 +273,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "综合数据类": [
         {
             "name": "feixiaohao",
             "url": "http://feixiaohao.co/",
@@ -377,7 +383,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "区块链浏览器": [
         {
             "name": "etherscan",
             "url": "https://etherscan.io/",
@@ -629,7 +637,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "K线工具": [
         {
             "name": "BSC",
             "url": "https://poocoin.app/",
@@ -665,7 +675,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "NFT工具大全": [
         {
             "name": "Genie",
             "url": "https://www.genie.xyz/",
@@ -809,7 +821,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "交易所": [
         {
             "name": "Binance",
             "url": "https://www.binance.com/zh-CN",
@@ -872,7 +886,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "Web3.0": [
         {
             "name": "gitcoin",
             "url": "https://gitcoin.co",
@@ -926,7 +942,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "DEFI/CEFI工具": [
         {
             "name": "liquidated",
             "url": "https://liquidated.live",
@@ -944,7 +962,9 @@
             "des_en": "",
             "des_tw": "",
             "des_jp": ""
-        },
+        }
+    ],
+    "GameFi": [
         {
             "name": "playtoearn.net",
             "url": "https://playtoearn.net/blockchaingames",
