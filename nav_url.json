@@ -138,7 +138,7 @@
         {
             "name": "抽奖工具",
             "url": "https://app-sorteos.com/dashboard",
-            "logo": "",
+            "logo": "https://app-sorteos.com/favicon.png",
             "des": "",
             "des_en": "",
             "des_tw": "",
@@ -156,7 +156,7 @@
         {
             "name": "linktr",
             "url": "https://linktr.ee",
-            "logo": "",
+            "logo": "https://linktr.ee/marketplace/favicon-196x196.png",
             "des": "",
             "des_en": "",
             "des_tw": "",
@@ -165,7 +165,7 @@
         {
             "name": "livasch",
             "url": "https://orbit.livasch.com",
-            "logo": "",
+            "logo": "https://orbit.livasch.com/favicon.ico",
             "des": "",
             "des_en": "",
             "des_tw": "",
@@ -174,7 +174,7 @@
         {
             "name": "name3",
             "url": "https://name3.org",
-            "logo": "",
+            "logo": "https://name3.org/favicon.ico",
             "des": "",
             "des_en": "",
             "des_tw": "",
@@ -183,7 +183,7 @@
         {
             "name": "discord",
             "url": "https://discord.com/ ",
-            "logo": "",
+            "logo": "https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico",
             "des": "",
             "des_en": "",
             "des_tw": "",
